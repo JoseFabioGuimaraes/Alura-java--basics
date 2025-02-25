@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a1b22b3-4505-4528-9566-e0a4617b840f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CalcularArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiferenciacaoNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumeroPositivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParOuImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +49,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalcularArea.executor": "Run",
     "Application.DiferenciacaoNumeros.executor": "Run",
     "Application.JogoAdivinhacao.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NumeroPositivo.executor": "Run",
+    "Application.ParOuImpar.executor": "Run",
+    "Application.Tabuada.executor": "Run",
+    "Application.tabuada.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -60,7 +67,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalcularArea">
+  <component name="RunManager" selected="Application.Fatorial">
     <configuration name="CalcularArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalcularArea" />
       <module name="exercicio3 - Java" />
@@ -75,8 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumeroPositivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumeroPositivo" />
+    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fatorial" />
+      <module name="exercicio3 - Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParOuImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParOuImpar" />
+      <module name="exercicio3 - Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tabuada" />
       <module name="exercicio3 - Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,9 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fatorial" />
+        <item itemvalue="Application.ParOuImpar" />
+        <item itemvalue="Application.Tabuada" />
         <item itemvalue="Application.CalcularArea" />
         <item itemvalue="Application.DiferenciacaoNumeros" />
-        <item itemvalue="Application.NumeroPositivo" />
       </list>
     </recent_temporary>
   </component>
