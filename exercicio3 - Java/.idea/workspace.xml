@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a1b22b3-4505-4528-9566-e0a4617b840f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParOuImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5a1b22b3-4505-4528-9566-e0a4617b840f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +44,7 @@
   "keyToString": {
     "Application.CalcularArea.executor": "Run",
     "Application.DiferenciacaoNumeros.executor": "Run",
+    "Application.Fatorial.executor": "Run",
     "Application.JogoAdivinhacao.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NumeroPositivo.executor": "Run",
