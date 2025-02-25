@@ -6,6 +6,7 @@ public class JogoAdivinhacao {
         int numero = new Random().nextInt(100);
         Scanner leitor = new Scanner(System.in);
         //System.out.println(numero);
+
         int chute;
         for (int i = 0; i < 5 ; i++) {
             System.out.println("Digite um número de chute");
