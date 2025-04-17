@@ -1,80 +1,81 @@
-# Projetos em Java
+# Java Projects
 
-Este repositório contém diversos projetos e exercícios desenvolvidos em Java, abordando diferentes conceitos e funcionalidades da linguagem.
+This repository contains various projects and exercises developed in Java, covering different concepts and functionalities of the language.
 
-## Estrutura do Repositório
+## Repository Structure
 
 ### 1. `ConversorDeTemperatura`
-Um programa simples que realiza a conversão de temperatura de graus Celsius para Fahrenheit.
+A simple program that converts temperature from Celsius to Fahrenheit.
 
-- **Funcionalidades**:
-    - Converte uma temperatura fixa de Celsius para Fahrenheit.
-    - Exibe o resultado formatado no console.
+- **Features**:
+  - Converts a fixed Celsius temperature to Fahrenheit.
+  - Displays the formatted result in the console.
 
-- **Exemplo de Saída**:
-  ```
-  A Temperatura de 36.5 graus Celsius
-  é igual a 97 graus Fahrenheit
-  ```
+- **Sample Output**:
+    ```
+    The temperature of 36.5 degrees Celsius
+    is equal to 97 degrees Fahrenheit
+    ```
 
 ### 2. `desafio`
-Simula um sistema bancário básico.
+Simulates a basic banking system.
 
-- **Funcionalidades**:
-    - Cadastro de usuário e tipo de conta.
-    - Exibição de saldo.
-    - Depósitos e transferências.
-    - Menu interativo para navegação.
+- **Features**:
+  - User and account type registration.
+  - Balance display.
+  - Deposits and transfers.
+  - Interactive menu for navigation.
 
 ### 3. `exercicio2 - Java`
-Exercícios variados para prática de conceitos básicos.
+Various exercises for practicing basic concepts.
 
-- **Funcionalidades**:
-    - Cálculo de média.
-    - Operações com variáveis e tipos de dados.
-    - Conversão de moedas e cálculo de descontos.
+- **Features**:
+  - Average calculation.
+  - Operations with variables and data types.
+  - Currency conversion and discount calculation.
 
 ### 4. `exercicio3 - Java`
-Conjunto de programas para resolver problemas específicos.
+A set of programs to solve specific problems.
 
-- **Programas**:
-    - `CalcularArea`: Calcula a área de um quadrado ou círculo.
-    - `DiferenciacaoNumeros`: Compara dois números e identifica o maior.
-    - `Fatorial`: Calcula o fatorial de um número.
-    - `JogoAdivinhacao`: Jogo de adivinhação com 5 tentativas.
-    - `NumeroPositivo`: Verifica se um número é positivo ou negativo.
-    - `ParOuImpar`: Determina se um número é par ou ímpar.
-    - `Tabuada`: Gera a tabuada de um número.
+- **Programs**:
+  - `CalcularArea`: Calculates the area of a square or a circle.
+  - `DiferenciacaoNumeros`: Compares two numbers and identifies the larger one.
+  - `Fatorial`: Calculates the factorial of a number.
+  - `JogoAdivinhacao`: A guessing game with 5 attempts.
+  - `NumeroPositivo`: Checks if a number is positive or negative.
+  - `ParOuImpar`: Determines whether a number is even or odd.
+  - `Tabuada`: Generates the multiplication table for a number.
 
 ### 5. `primeiroProjetoAlura`
-Projetos introdutórios desenvolvidos durante o curso da Alura.
+Introductory projects developed during an Alura course.
 
-- **Programas**:
-    - `Condicional`: Demonstra o uso de estruturas condicionais.
-    - `Leitura`: Lê e exibe informações sobre filmes.
-    - `LoopFor`: Calcula a média de avaliações usando um loop `for`.
-    - `LoopWhile`: Calcula a média de avaliações usando um loop `while`.
-    - `Main`: Exibe informações sobre um filme e realiza cálculos básicos.
+- **Programs**:
+  - `Condicional`: Demonstrates the use of conditional structures.
+  - `Leitura`: Reads and displays information about movies.
+  - `LoopFor`: Calculates the average of ratings using a `for` loop.
+  - `LoopWhile`: Calculates the average of ratings using a `while` loop.
+  - `Main`: Displays information about a movie and performs basic calculations.
 
-## Como Executar
+## How to Run
 
-1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado.
-2. Navegue até o diretório do projeto desejado.
-3. Compile o arquivo principal com o comando:
-   ```
-   javac src/Main.java
-   ```
-4. Execute o programa com o comando:
-   ```
-   java src/Main
-   ```
+1. Make sure you have the [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) installed.
+2. Navigate to the desired project directory.
+3. Compile the main file with the command:
+    ```
+    javac src/Main.java
+    ```
+4. Run the program with the command:
+    ```
+    java src/Main
+    ```
 
-## Requisitos
+## Requirements
 
-- Java 8 ou superior.
+- Java 8 or higher
 
-## Autor
+## Author
+
 #### José Fábio Guimarães
 
-- OBS:
-Este repositório foi desenvolvido como parte de exercícios e projetos de aprendizado em Java.
+> **Note:**  
+> This repository was developed as part of Java learning exercises and projects.
